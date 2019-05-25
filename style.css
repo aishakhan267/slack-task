@@ -1,0 +1,31 @@
+/* Write all your CSS here */
+/* Please indent properly */
+/* Please use only lower-case letters */
+/* Your webpage should be 100% responsive!!! */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#3f0e40;
+    color: white;
+}
+#whole {
+    background-color:#3f0e40;
+    color: white;
+    margin:0 0 0 20px;
+    /* display: flex; */
+   
+
+}
+.slack {
+    display: flex;
+    flex-direction: row;
+}
+.intro {
+    display: flex;
+    flex-direction: row;
+}
+header {
+    margin:0 0 0 20px;
+}
+
